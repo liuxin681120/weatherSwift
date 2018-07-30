@@ -1,0 +1,15 @@
+PODS:
+  - Alamofire (4.7.0)
+  - HandyJSON (1.8.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - HandyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  HandyJSON: edaaa3278bf4c4c96d6f7382b80d6b91c88d3bf5
+
+PODFILE CHECKSUM: 56e41168cc73415b6d725e4a62d5232272aed84a
+
+COCOAPODS: 1.4.0
